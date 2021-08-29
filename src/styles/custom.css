@@ -1,0 +1,65 @@
+.navbar-brand {
+  margin-left: 50px;
+}
+.navbar-light .navbar-brand {
+  color: rgb(7, 138, 155);
+}
+.nav-link {
+  margin-right: 30px;
+}
+.card-helper-student {
+  width: 18rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 100;
+  color: #fff;
+}
+.card-helper-faculty {
+  width: 18rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 100;
+}
+.main {
+  background-image: url("../styles/background-image.jpg");
+  background-size: cover;
+  height: 80vh;
+}
+
+.footer {
+  text-align: center;
+  margin-top: 30px;
+}
+.Examboard-header {
+  font-family: "Anton", sans-serif;
+  text-align: center;
+  padding-top: 30px;
+}
+.Examboard-main {
+  background-image: url("../styles/ExamPage.jpg");
+
+  height: 100vh;
+}
+.cardExamTiles {
+  margin-top: 20px;
+}
+.student {
+  position: absolute;
+  bottom: 20px;
+  left: 10px;
+  width: 200px;
+  height: 200px;
+}
+.btngroup-pos {
+  position: absolute;
+  bottom: 30px;
+  left: 50%;
+  right: 50%;
+}
+.ck-editor_editable {
+  max-height: 500px;
+}
